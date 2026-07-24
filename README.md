@@ -98,4 +98,4 @@ All data used in this project is sample/synthetic and does not represent real cu
 ---
 
 **Author:** Joseph Oyebade
-**Connect:** [LinkedIn](www.linkedin.com/in/joseph-oyebade) | [GitHub](https://github.com/slows9911)
+**Connect:**  [LinkedIn](https://www.linkedin.com/in/joseph-oyebade) | [GitHub](https://github.com/slows9911)
