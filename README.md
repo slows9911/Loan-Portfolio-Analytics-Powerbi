@@ -87,7 +87,7 @@ DIVIDE(CurrentBalance - PriorYearBalance, PriorYearBalance, 0)
 
 ## How to Explore This Project
 
-1. Download 'Portforlio.pbix' from this repository
+1. Download '(https://github.com/slows9911/Loan-Portfolio-Analytics-Powerbi/blob/Master/Portforlio.pbix)' from this repository
 2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
 4. Explore the report pages, drill-throughs, and data model via the Model view
 
